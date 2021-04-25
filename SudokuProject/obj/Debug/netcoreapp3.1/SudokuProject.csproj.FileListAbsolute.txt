@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp3.1\SudokuProject.exe
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp3.1\SudokuProject.deps.json
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp3.1\SudokuProject.runtimeconfig.json
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp3.1\SudokuProject.runtimeconfig.dev.json
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp3.1\SudokuProject.dll
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\bin\Debug\netcoreapp3.1\SudokuProject.pdb
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp3.1\SudokuProject.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp3.1\SudokuProject.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp3.1\SudokuProject.AssemblyInfo.cs
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp3.1\SudokuProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp3.1\SudokuProject.dll
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp3.1\SudokuProject.pdb
+C:\Users\HP\source\repos\SudokuProject\SudokuProject\obj\Debug\netcoreapp3.1\SudokuProject.genruntimeconfig.cache
